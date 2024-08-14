@@ -1,3 +1,0 @@
-Portfolio Name: hi 
-Ticker Symbol: , Shares: 0.0
-Ticker Symbol: GOOG, Shares: 3.0, Date: 2024-05-15, Buy or Sell: BUY
