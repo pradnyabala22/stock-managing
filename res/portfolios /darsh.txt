@@ -1,0 +1,2 @@
+Portfolio Name: darsh
+Ticker Symbol: GOOG, Shares: 4, Date: 2024-05-15, Buy or Sell: BUY
