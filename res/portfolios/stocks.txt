@@ -1,0 +1,3 @@
+Portfolio Name: stocks
+Ticker Symbol: , Shares: 0.0
+Ticker Symbol: GOOG, Shares: 40.0, Date: 2023-05-11, Buy or Sell: BUY

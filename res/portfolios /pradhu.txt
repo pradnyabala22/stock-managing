@@ -1,0 +1,2 @@
+Portfolio Name: pradhu
+Ticker Symbol: GOOG, Shares: 7, Date: 2024-05-15, Buy or Sell: BUY
